@@ -6,7 +6,7 @@ For my project, I decided to focus on the differences between the different kind
 ## Figure 1
 For my first graph, I started simple and decided to see if there is a relationship between the absolute magnitude and the radius of all the dwarf stars.
 
-![image](https://github.com/najalee/ACM-Research-coding-challenge-23S/blob/main/AM%20vs%20Rad%20Dwarf.png?raw=true)
+![image](https://github.com/najalee/ACM-Research-coding-challenge-23S/blob/main/AM%20vs%20Rad%20Dwarf.png?raw=true | width = 250)
 
 Based on this image, there doesn't seem to be any clear correlation.
 
